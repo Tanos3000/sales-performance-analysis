@@ -4,3 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 data/online_retail.xlsx
+data/sales_clean.csv
+data/returns.csv
