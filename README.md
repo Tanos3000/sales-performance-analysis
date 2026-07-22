@@ -4,6 +4,8 @@ Exploratory analysis of 525K UK online retail transactions, uncovering seasonali
 
 ![Monthly revenue chart](assets/monthly_revenue.png)
 
+First of a three-part series on the same dataset: static exploratory analysis (this repo) → [interactive dashboard](https://github.com/Tanos3000/sales-kpi-dashboard) → [natural-language query agent](https://github.com/Tanos3000/ai-data-analysis-agent).
+
 ## Problem / Motivation
 
 A gift/novelty retailer wants to understand its own sales data before making decisions about inventory, marketing spend, and staffing. This project answers four concrete questions from one year of real transaction data: Is revenue seasonal? Which markets and products actually drive revenue? How concentrated is that revenue across the product catalog? And are there weekday patterns worth planning around?
